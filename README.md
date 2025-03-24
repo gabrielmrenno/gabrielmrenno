@@ -1,3 +1,4 @@
+# Quem sou eu
 Sou Gabriel Martins Rennó, engenheiro de software e dados apaixonado por construir soluções tecnológicas eficientes, seguras e escaláveis. Com formação em Engenharia de Controle e Automação pela Universidade Federal de Itajubá (UNIFEI), tenho experiência como líder técnico e desenvolvedor, atuando com foco em performance e qualidade.
 
 Atualmente lidero a equipe de engenharia de dados na Genesis Data-Culture, onde arquitetamos soluções em nuvem AWS para otimização de desempenho e custos. Minhas principais competências técnicas incluem Python, NodeJS (NestJS), Serverless, Big Data, Spark, SQL Server, PostgreSQL, Kafka, Iceberg, Airflow e PowerBI.
